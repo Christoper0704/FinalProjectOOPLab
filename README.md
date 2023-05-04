@@ -9,3 +9,9 @@ Soccer is one of the most hobby and sport that people like in the world. Certain
 - Add matches data, team and player data, and referee data
 - View matches data, team and player data, and referee data
 - View score of teams which compete in matches and their position
+
+# Language
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+# Code Editor
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
